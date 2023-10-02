@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Home",
+    "link": "/home"
+  },
+  {
+    "title": "Wishlist",
+    "link": "/favourites"
+  },
+  {
+    "title": "Products",
+    "link": "/products"
+  },
+  {
+    "title": "Trend",
+    "link": "/home#trending"
+  },
+  {
+    "title": "Best Selling",
+    "link": "/home#best-selling"
+  }
+]

@@ -1,0 +1,11 @@
+.card-icons{
+  display: flex;
+  justify-content: center;
+}
+
+.card-icons button {
+  border: none;
+  background: none;
+  margin: 0;
+  padding: 0;
+}
